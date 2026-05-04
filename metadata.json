@@ -1,0 +1,12 @@
+{
+  "name": "LingoVibe",
+  "description": "A stylish, lifestyle-focused English learning app with native-like iOS experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Audio recording",
+    "Smart feedback",
+    "Social learning"
+  ]
+}
